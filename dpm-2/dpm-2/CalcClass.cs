@@ -1,5 +1,5 @@
 ﻿using System;
-class Comperor
+public class Comperor
 {
     public int num1;
     public int num2;
